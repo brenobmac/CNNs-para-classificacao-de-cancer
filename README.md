@@ -1,2 +1,2 @@
 # CNNs-para-classificacao-de-cancer
-Uso de Redes Neurais Convolucionais para detecção de câncer em mamas.
+Repositório utilizada para documentar as atividaes que realizei para meu projeto final de graduação em Engenharia Elétrica.
